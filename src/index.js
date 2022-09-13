@@ -21,6 +21,7 @@ import "./style.css";
 
     <button onClick={IncNum}>+</button>
 
+
     <h1>{prob}</h1>
     
     <button onClick={DeNum}>-</button>
