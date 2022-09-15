@@ -34,3 +34,7 @@ button {
   border: lightgray;
   box-shadow: 0px 0px 10px gray;
 }
+.icon{
+  height: 50px;
+  width:50px ;
+}
